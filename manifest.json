@@ -1,0 +1,14 @@
+{"manifest_version": 2,
+
+  "name": "GTMetrix Analüüsija",
+  "description": "Analüüsib lehte GTMetrix'iga",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "gtmetrix.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}

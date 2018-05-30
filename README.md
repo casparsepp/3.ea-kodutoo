@@ -1,5 +1,11 @@
 # 3. kodutöö – Chrome extension
 
+-Caspar Sepp
+
+-Extensioniga saab analüüsida ükskõik mis veebilehte, kasutades gtmetrix.com'i
+-Enamus koodist on võetud siit - https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/ kuid isegi copy-paste tehes oli mingi kala sees, ning algselt ei töötanud.
+
+
 Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetud. Soovi korral võib ka teha Firefox'ile.
 
 **Töö on soovitatav teha kahekesi!**
